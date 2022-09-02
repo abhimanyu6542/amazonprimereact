@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amazonprimereact/static/css/main.12b3a595.css",
+    "main.js": "/amazonprimereact/static/js/main.2ab7bc83.js",
+    "static/js/787.667cc264.chunk.js": "/amazonprimereact/static/js/787.667cc264.chunk.js",
+    "index.html": "/amazonprimereact/index.html",
+    "main.12b3a595.css.map": "/amazonprimereact/static/css/main.12b3a595.css.map",
+    "main.2ab7bc83.js.map": "/amazonprimereact/static/js/main.2ab7bc83.js.map",
+    "787.667cc264.chunk.js.map": "/amazonprimereact/static/js/787.667cc264.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12b3a595.css",
+    "static/js/main.2ab7bc83.js"
+  ]
+}
